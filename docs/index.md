@@ -60,7 +60,7 @@ __Idaho Central Credit Union__, Financial Services Officer
 - Data science programming in R using the tidyverse.
 - Data science programming in Python using pandas and scikit-learn.
 - Genomics and transcriptomics using R and bioconductor. 
-- Statistical methods.
+- Linear regression and other statistical methods. 
 - Biological research methods.
 - Fluent in conversational Spanish.
 
